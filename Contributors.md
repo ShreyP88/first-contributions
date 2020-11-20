@@ -40,6 +40,7 @@
 - [Raquel](https://github.com/rcurutchet)
 - [John McCracken](https://github.com/johnmccuk)
 - TomKCA
+- [Shreyas Pant](https://github.com/ShreyP88)
 - [Hemant Patel](https://github.com/Hemant-Dev)
 - [Alex Babalau](https://github.com/alexbabalau)
 - [Neha Sahoo](https://github.com/neha-s14)
